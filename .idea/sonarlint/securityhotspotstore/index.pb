@@ -7,3 +7,5 @@ O
 tests/identity-contract.test.ts,7/9/7914deb1d64e141c791b213fc79058a842cf3a95
 K
 contracts/verification.clar,9/8/98bf185a1116d313d3e5ed3f0e297817b0eeeae1
+J
+tests/verification.test.ts,5/f/5f6c036b4d5d2f26aaacea02c1e8b126e01ed95e
